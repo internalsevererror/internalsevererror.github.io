@@ -1,0 +1,28 @@
+.macro,
+.macro .hiccup_html,
+.macro .raw_html {
+    display: inline;
+}
+
+mark {
+  background-color: #716DA4;
+  color: white;
+}
+
+@media print {
+  @page {
+    margin: 0;
+  }
+
+  body {
+    margin: 0;
+  }
+
+  .page {
+    page-break-inside: avoid;
+  }
+
+  .block-container {
+    page-break-inside: avoid;
+  }
+}
