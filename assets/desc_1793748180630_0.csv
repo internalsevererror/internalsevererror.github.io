@@ -1,0 +1,16 @@
+Description,Scientific Name,Max Score,Total Score,Query Cover,E value,Per. ident,Acc. Len,Accession  
+DNA topoisomerase 2-alpha [Homo sapiens],Homo sapiens,841,841,100%,0.0,100.00,1531,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/NP_001058.2?report=genbank&log$=prottop&blast_rank=1&RID=EMC26XGJ016"",""NP_001058.2"")"
+DNA topoisomerase 2-alpha [Rattus norvegicus],Rattus norvegicus,821,821,100%,0.0,97.25,1528,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/NP_001380697.1?report=genbank&log$=prottop&blast_rank=2&RID=EMC26XGJ016"",""NP_001380697.1"")"
+DNA topoisomerase 2-alpha [Mus musculus],Mus musculus,820,820,100%,0.0,96.75,1528,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/NP_035753.2?report=genbank&log$=prottop&blast_rank=3&RID=EMC26XGJ016"",""NP_035753.2"")"
+DNA topoisomerase 2-beta [Mus musculus],Mus musculus,712,712,100%,0.0,83.50,1612,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/NP_033435.2?report=genbank&log$=prottop&blast_rank=4&RID=EMC26XGJ016"",""NP_033435.2"")"
+DNA topoisomerase 2-beta [Rattus norvegicus],Rattus norvegicus,710,710,100%,0.0,83.25,1614,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/NP_001094328.2?report=genbank&log$=prottop&blast_rank=5&RID=EMC26XGJ016"",""NP_001094328.2"")"
+DNA topoisomerase 2-beta isoform 1 [Homo sapiens],Homo sapiens,709,709,100%,0.0,83.25,1626,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/NP_001317629.1?report=genbank&log$=prottop&blast_rank=6&RID=EMC26XGJ016"",""NP_001317629.1"")"
+ATP-binding protein [Flagellimonas marina],Flagellimonas marina,139,139,91%,2e-35,31.17,631,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_379767239.1?report=genbank&log$=prottop&blast_rank=7&RID=EMC26XGJ016"",""WP_379767239.1"")"
+DNA topoisomerase (ATP-hydrolyzing) subunit B [Mycoplasma leachii],Mycoplasma leachii,82.4,82.4,86%,2e-16,26.94,634,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_013447402.1?report=genbank&log$=prottop&blast_rank=8&RID=EMC26XGJ016"",""WP_013447402.1"")"
+DNA topoisomerase (ATP-hydrolyzing) subunit B [Flagellimonas marina],Flagellimonas marina,64.7,64.7,85%,1e-10,23.80,646,"=HYPERLINK(""https://www.ncbi.nlm.nih.gov/protein/WP_379762824.1?report=genbank&log$=prottop&blast_rank=9&RID=EMC26XGJ016"",""WP_379762824.1"")"
+
+
+
+		
+
+
